@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_toolbar": "images/gray.png",
+      "theme_tab_background": "images/tab-background.png"
+    },
+    "colors": {
+      "frame": [ 19,  19,  17],
+      "frame_inactive": [ 38,  38,  38],
+      "frame_incognito_inactive": [ 38,  38,  38],
+      "toolbar": [ 49, 50, 51],
+      "tab_text": [ 255, 255, 255],
+      "tab_background": [ 64,  64,  66],
+      "tab_background_text": [ 240, 240, 240],
+      "bookmark_text": [ 255, 255, 255],
+			"bookmark_background": [ 49,50,51],
+      "ntp_background": [ 49, 50, 51],
+      "ntp_text": [ 255, 255, 255],
+      "ntp_header": [ 255, 255, 255],
+      "button_background": [ 0, 0, 0, 0 ]
+    },
+    "tints": { "buttons": [ 0, 0, 1 ] },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": "1"
+    }
+  },
+	"name": "Onyx for Chrome",
+	"short_name": "Onyx",
+	"description": "Onyx is a clean, flat, dark theme for Chrome.",
+	"version": "1.0.3"
+}
